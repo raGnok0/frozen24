@@ -9,6 +9,7 @@
 !.yarn/plugins
 !.yarn/releases
 !.yarn/versions
+frozen24db2025-firebase-adminsdk-r8c4p-d698c50daf.json
 
 # testing
 /coverage
@@ -32,7 +33,7 @@ yarn-error.log*
 
 # env files (can opt-in for committing if needed)
 .env*
-
+.env.local
 # vercel
 .vercel
 
