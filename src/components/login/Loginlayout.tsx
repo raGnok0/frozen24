@@ -66,6 +66,7 @@ export default function Loginlayout() {
                         </button>
                     </form>
                 </div>
+                <div>{error}</div>
             </div>
         </>
     )
